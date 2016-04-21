@@ -1,7 +1,4 @@
 {
-    "require": {
-        "slim/slim": "2.*"
-    },
     "extra": {
         "heroku": {
             "index-document": "index.php",
